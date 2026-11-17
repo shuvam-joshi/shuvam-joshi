@@ -1,6 +1,13 @@
 <div align="center">
+  <h1 style="background-color:#000000; color:#FFFFFF; padding:25px; font-size:45px;">
+    SHUVAM JOSHI
+  </h1>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C9FF,50:7B2FF7,100:00F5A0&height=200&section=header&text=SHUVAM%20JOSHI&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=CYBER%20SECURITY%20%7C%20SOFTWARE%20DEVELOPER&descAlignY=58&descSize=17" width="100%" />
+
+### Cyber Security Student | Software Developer
+
+Networking • Cloud Security • Ethical Hacking
+
 
 ### 🚀 Building | Coding | Securing
 
